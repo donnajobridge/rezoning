@@ -1,5 +1,5 @@
 ### Get information about ordinances with zoning reclassification
 
-##### First get ordinance id, sponsors, ward of sponsor, address, status, etc from https://chicago.councilmatic.org/
+##### First get some ordinance info from: https://chicago.councilmatic.org/
 
-For this, run scrape_chicouncilmatic.ipynb. Only ordinances since 2015 are acquired. The output is a text file json. A dictionary is included for each ordinance.
+Run scrape_chicouncilmatic.ipynb. The output is a json, with one dictionary for each ordinance. The dictionary includes: **ordinance id**, **date**, **year**, **sponsors**, **sponsors' wards**, **address**, **status**.  Only ordinances since 2015 are acquired.
