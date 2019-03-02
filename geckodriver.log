@@ -1,0 +1,63 @@
+1551488328459	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.bxRcZKolOPqC"
+1551488331926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551488331926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551488333181	Marionette	INFO	Listening on port 58599
+1551488364502	Marionette	INFO	Stopped listening on port 58599
+1551488506959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.sldQgGy8bYw7"
+1551488507373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551488507373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551488508527	Marionette	INFO	Listening on port 58795
+1551488508606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551488532630	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.JVgoUn3RrIUn"
+1551488533107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551488533107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551488534192	Marionette	INFO	Listening on port 58838
+1551488534273	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'GetGraphicsResetStatus'.
+1551488555662	Marionette	INFO	Stopped listening on port 58795
+JavaScript error: https://static.adsafeprotected.com/sca.17.4.95.js, line 33: TypeError: The ReadableStream reader was released.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551488936785	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.Cz73sP0Nrqpd"
+1551488937185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551488937185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551488938315	Marionette	INFO	Listening on port 59105
+1551488938336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551489044611	Marionette	INFO	Stopped listening on port 58838
+JavaScript error: https://static.adsafeprotected.com/sca.17.4.95.js, line 33: TypeError: The ReadableStream reader was released.
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+1551489498517	Marionette	INFO	Stopped listening on port 59105
+1551489505783	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.i79CcdnlViEK"
+1551489506229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551489506229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551489507364	Marionette	INFO	Listening on port 59420
+1551489507431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551489558899	Marionette	INFO	Stopped listening on port 59420
+1551489574065	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.nglNvbMxamV7"
+1551489574497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551489574497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551489575626	Marionette	INFO	Listening on port 59547
+1551489575703	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7\n"
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:7
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:821:11\nhandler@resource://devtools/shared/protocol.js:1197:21\nonPacket@resource://devtools/server/main.js:1324:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): can't access dead object"
