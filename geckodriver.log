@@ -61,3 +61,11 @@ WalkerFront<.getMutations</<@resource://devtools/shared/fronts/inspector.js:423:
 console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
 console.error: "getLayout@resource://devtools/server/actors/styles.js:821:11\nhandler@resource://devtools/shared/protocol.js:1197:21\nonPacket@resource://devtools/server/main.js:1324:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
 console.error: "Protocol error (unknownError): can't access dead object"
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
