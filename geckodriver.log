@@ -200,3 +200,27 @@ console.error: BroadcastService:
   Stack:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
 
+1551739846396	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.OSj1KUGAmV4W"
+1551739846995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551739846995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551739848175	Marionette	INFO	Listening on port 60779
+1551739848245	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://illinoissunshine.org/search/?term=ed+burke&table_name=candidates&table_name=committees&table_name=officers&table_name=receipts&table_name=expenditures, line 460: unreachable code after return statement
+JavaScript warning: https://illinoissunshine.org/search/?term=ed+burke&table_name=candidates&table_name=committees&table_name=officers&table_name=receipts&table_name=expenditures, line 460: unreachable code after return statement
+JavaScript error: https://code.highcharts.com/highcharts.js, line 10: Error: Highcharts error #13: www.highcharts.com/errors/13
+JavaScript warning: https://illinoissunshine.org/search/?term=tom+tunney&table_name=candidates&table_name=committees&table_name=officers&table_name=receipts&table_name=expenditures&search_date__ge=&search_date__le=, line 460: unreachable code after return statement
+JavaScript warning: https://illinoissunshine.org/search/?term=tom+tunney&table_name=candidates&table_name=committees&table_name=officers&table_name=receipts&table_name=expenditures&search_date__ge=&search_date__le=, line 460: unreachable code after return statement
+JavaScript warning: https://illinoissunshine.org/search/?term=tom+tunney&table_name=candidates&table_name=committees&table_name=officers&table_name=receipts&table_name=expenditures&search_date__ge=&search_date__le=, line 460: unreachable code after return statement
+JavaScript warning: https://illinoissunshine.org/search/?term=tom+tunney&table_name=candidates&table_name=committees&table_name=officers&table_name=receipts&table_name=expenditures&search_date__ge=&search_date__le=, line 460: unreachable code after return statement
+JavaScript error: https://code.highcharts.com/highcharts.js, line 10: Error: Highcharts error #13: www.highcharts.com/errors/13
+JavaScript error: https://code.highcharts.com/highcharts.js, line 10: Error: Highcharts error #13: www.highcharts.com/errors/13
+1551740743032	Marionette	INFO	Stopped listening on port 60779
