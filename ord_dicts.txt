@@ -35,7 +35,7 @@
         "locations": [
             "831 N Damen Ave Chicago"
         ],
-        "ord": "O2018-9268",
+        "ord": "	",
         "sponsor_ward": [],
         "sponsors": [
             "Chicago City Council",
