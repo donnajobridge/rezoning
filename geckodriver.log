@@ -310,3 +310,25 @@ Can't find symbol 'GetGraphicsResetStatus'.
 Can't find symbol 'GetGraphicsResetStatus'.
 1551812605483	Marionette	INFO	Listening on port 49794
 1551812605527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551812895573	Marionette	INFO	Stopped listening on port 49794
+1551812898238	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.uVGSBhileCD0"
+1551812898681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551812898681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551812899932	Marionette	INFO	Listening on port 50011
+1551812899977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551813148306	Marionette	INFO	Stopped listening on port 50011
+1551813156241	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.DPbYivcrk2nO"
+1551813156664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551813156664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551813157771	Marionette	INFO	Listening on port 50194
+1551813157782	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
