@@ -224,3 +224,89 @@ JavaScript warning: https://illinoissunshine.org/search/?term=tom+tunney&table_n
 JavaScript error: https://code.highcharts.com/highcharts.js, line 10: Error: Highcharts error #13: www.highcharts.com/errors/13
 JavaScript error: https://code.highcharts.com/highcharts.js, line 10: Error: Highcharts error #13: www.highcharts.com/errors/13
 1551740743032	Marionette	INFO	Stopped listening on port 60779
+1551805619596	Marionette	INFO	Stopped listening on port 59421
+1551805626314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.qN9M34dlrRaH"
+1551805626886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551805626886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551805628287	Marionette	INFO	Listening on port 62119
+1551805628378	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551811157151	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.QQXsMh4tigoh"
+1551811157613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551811157614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551811158765	Marionette	INFO	Listening on port 63852
+1551811158809	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551811490846	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.lfu05OyCRFwj"
+1551811491355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551811491355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551811492644	Marionette	INFO	Listening on port 64036
+1551811492697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551811499196	Marionette	INFO	Stopped listening on port 63852
+1551811681483	Marionette	INFO	Stopped listening on port 64036
+1551811684639	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.qNOGv3yw6S7R"
+1551811685104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551811685104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551811686251	Marionette	INFO	Listening on port 64199
+1551811686279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551811761682	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.Kzt2B1OlnYNf"
+1551811762164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551811762164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551811763324	Marionette	INFO	Listening on port 64313
+1551811763352	Marionette	INFO	Stopped listening on port 64199
+1551811763422	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551812148290	Marionette	INFO	Stopped listening on port 64313
+1551812169228	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.vn7GqXVTrzjw"
+1551812169666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551812169667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551812170774	Marionette	INFO	Listening on port 64483
+1551812170873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551812548663	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.Smoxo5du4Cmj"
+1551812549184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551812549184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551812550489	Marionette	INFO	Listening on port 49665
+1551812550518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551812601505	Marionette	INFO	Stopped listening on port 49665
+1551812603986	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/22/0p5dq5qs0_3_r59_zltvv40r882rnp/T/rust_mozprofile.zx6TaVeRTMbm"
+1551812604376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551812604376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1551812605483	Marionette	INFO	Listening on port 49794
+1551812605527	Marionette	WARN	TLS certificate errors will be ignored for this session
