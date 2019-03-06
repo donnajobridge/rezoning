@@ -13800,5 +13800,4178 @@
         ],
         "status": "Passed",
         "year": 2018
+    },
+    {
+        "Community Area": [
+            "Near West Side"
+        ],
+        "Neighborhood": [
+            "Near West Side"
+        ],
+        "Ward": "27th Ward",
+        "Ward_Alderman": " Alder Walter Burnett",
+        "ZIP Code": [
+            "60607"
+        ],
+        "date": "2018-07-25",
+        "href": "/legislation/o2018-4501/",
+        "locations": [
+            "4801-4837 W Peterson Ave Chicago",
+            "5955-5963 N Caldwell Ave Chicago"
+        ],
+        "ord": "O2018-4501",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Near West Side"
+        ],
+        "Neighborhood": [
+            "West Town"
+        ],
+        "Ward": "27th Ward",
+        "Ward_Alderman": " Alder Walter Burnett",
+        "ZIP Code": [
+            "60607"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2017-3834/",
+        "locations": [
+            "166 N Aberdeen Ave Chicago",
+            "167 N Aberdeen Ave Chicago"
+        ],
+        "ord": "O2017-3834",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Humboldt Park"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2328/",
+        "locations": [
+            "1415 N Rockwell St Chicago"
+        ],
+        "ord": "O2018-2328",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Humboldt Park"
+        ],
+        "Neighborhood": [
+            "East Garfield Park"
+        ],
+        "Ward": "26th Ward",
+        "Ward_Alderman": " Alder Roberto Maldonado",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2302/",
+        "locations": [
+            "2833 W Chicago Ave Chicago"
+        ],
+        "ord": "O2018-2302",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lake View"
+        ],
+        "Neighborhood": [
+            "Wrigleyville"
+        ],
+        "Ward": "44th Ward",
+        "Ward_Alderman": " Alder Tom M. Tunney",
+        "ZIP Code": [
+            "60613"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3196/",
+        "locations": [
+            "957 W Grace St Chicago"
+        ],
+        "ord": "O2018-3196",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Humboldt Park"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2301/",
+        "locations": [
+            "1445 N Rockwelll St Chicago"
+        ],
+        "ord": "O2018-2301",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "New City"
+        ],
+        "Neighborhood": [
+            "Back of the Yards"
+        ],
+        "Ward": "15th Ward",
+        "Ward_Alderman": " Alder Raymond Lopez",
+        "ZIP Code": [
+            "60609"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3185/",
+        "locations": [
+            "4522-4528 S McDowell Ave Chicago"
+        ],
+        "ord": "O2018-3185",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Humboldt Park"
+        ],
+        "Ward": "26th Ward",
+        "Ward_Alderman": " Alder Roberto Maldonado",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3399/",
+        "locations": [
+            "2539-2541 W Walton St Chicago"
+        ],
+        "ord": "O2018-3399",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Ward": "2nd Ward",
+        "Ward_Alderman": " Alder Brian Hopkins",
+        "ZIP Code": [
+            "60642"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2946/",
+        "locations": [
+            "1428-1472 W Willow St Chicago",
+            "1731-1747 N Elston Ave Chicago"
+        ],
+        "ord": "O2018-2946",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "North Center"
+        ],
+        "Neighborhood": [
+            "North Center"
+        ],
+        "Ward": "47th Ward",
+        "Ward_Alderman": " Alder Ameya Pawar",
+        "ZIP Code": [
+            "60618"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3235/",
+        "locations": [
+            "4024 N Lincoln Ave Chicago"
+        ],
+        "ord": "O2018-3235",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "North Park"
+        ],
+        "Ward": "39th Ward",
+        "Ward_Alderman": " Alder Margaret Laurino",
+        "ZIP Code": [
+            "60646"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-1865/",
+        "locations": [
+            "4025 W Peterson Ave Chicago",
+            "4001-4045 W Thorndale Ave Chicago"
+        ],
+        "ord": "O2018-1865",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Englewood"
+        ],
+        "Neighborhood": [
+            "West Englewood"
+        ],
+        "Ward": "15th Ward",
+        "Ward_Alderman": " Alder Raymond Lopez",
+        "ZIP Code": [
+            "60636"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3793/",
+        "locations": [
+            "1811-1813 W 63rd St Chicago"
+        ],
+        "ord": "O2018-3793",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Irving Park"
+        ],
+        "Neighborhood": [
+            "Irving Park"
+        ],
+        "Ward": "33rd Ward",
+        "Ward_Alderman": " Alder Deb Mell",
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-387/",
+        "locations": [
+            "2801-2863 W Addison St Chicago",
+            "3400-3558 N California Ave Chicago",
+            "2800-2964 W Roscoe St Chicago",
+            "3421-3425 N Elston Ave Chicago",
+            "3419-3425 N Whipple St Chicago"
+        ],
+        "ord": "O2018-387",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Bridgeport"
+        ],
+        "Neighborhood": [
+            "Bridgeport"
+        ],
+        "Ward": "11th Ward",
+        "Ward_Alderman": " Alder Patrick Daley Thompson",
+        "ZIP Code": [
+            "60608"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3177/",
+        "locations": [
+            "3040-3052 S Gratten Ave Chicago"
+        ],
+        "ord": "O2018-3177",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Rogers Park"
+        ],
+        "Neighborhood": [
+            "Rogers Park"
+        ],
+        "Ward": "49th Ward",
+        "Ward_Alderman": " Alder Joe A. Moore",
+        "ZIP Code": [
+            "60626"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2298/",
+        "locations": [
+            "1730 W Greenleaf Ave Chicago"
+        ],
+        "ord": "O2018-2298",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lower West Side"
+        ],
+        "Neighborhood": [
+            "Pilsen"
+        ],
+        "Ward": "25th Ward",
+        "Ward_Alderman": " Alder Daniel S. Solis",
+        "ZIP Code": [
+            "60608"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2303/",
+        "locations": [
+            "1811 S Laflin Ave Chicago"
+        ],
+        "ord": "O2018-2303",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Albany Park"
+        ],
+        "Neighborhood": [
+            "Albany Park"
+        ],
+        "Ward": "33rd Ward",
+        "Ward_Alderman": " Alder Deb Mell",
+        "ZIP Code": [
+            "60625"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2300/",
+        "locations": [
+            "4942 N Monticelle Ave Chicago"
+        ],
+        "ord": "O2018-2300",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lincoln Square"
+        ],
+        "Neighborhood": [
+            "Bowmanville"
+        ],
+        "Ward": "40th Ward",
+        "Ward_Alderman": " Alder Patrick J. O'Connor",
+        "ZIP Code": [
+            "60625"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2306/",
+        "locations": [
+            "2044-2046 W Foster Ave Chicago"
+        ],
+        "ord": "O2018-2306",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lincoln Park"
+        ],
+        "Neighborhood": [
+            "Ranch Triangle"
+        ],
+        "Ward": "2nd Ward",
+        "Ward_Alderman": " Alder Brian Hopkins",
+        "ZIP Code": [
+            "60642"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-1325/",
+        "locations": [
+            "932-946 W North Ave Chicago",
+            "1601-1607 N Sheffield Ave Chicago"
+        ],
+        "ord": "O2018-1325",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lake View"
+        ],
+        "Neighborhood": [
+            "Lake View"
+        ],
+        "Ward": "44th Ward",
+        "Ward_Alderman": " Alder Tom M. Tunney",
+        "ZIP Code": [
+            "60657"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3788/",
+        "locations": [
+            "3404-3412 N Sheffield Ave Chicago"
+        ],
+        "ord": "O2018-3788",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Englewood"
+        ],
+        "Neighborhood": [
+            "West Englewood"
+        ],
+        "Ward": "15th Ward",
+        "Ward_Alderman": " Alder Raymond Lopez",
+        "ZIP Code": [
+            "60636"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3263/",
+        "locations": [
+            "5623 S Damen Ave Chicago"
+        ],
+        "ord": "O2018-3263",
+        "sponsor_ward": [
+            "Ward 15"
+        ],
+        "sponsors": [
+            "Lopez, Raymond A."
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Irving Park"
+        ],
+        "Neighborhood": [
+            "Albany Park"
+        ],
+        "Ward": "33rd Ward",
+        "Ward_Alderman": " Alder Deb Mell",
+        "ZIP Code": [
+            "60618"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3779/",
+        "locations": [
+            "3024 W Irving Park Rd Chicago"
+        ],
+        "ord": "O2018-3779",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Portage Park"
+        ],
+        "Neighborhood": [
+            "Cragin"
+        ],
+        "Ward": "31st Ward",
+        "Ward_Alderman": " Alder Milagros \"Milly\" Santiago",
+        "ZIP Code": [
+            "60641"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3795/",
+        "locations": [
+            "5200-5206 W Belmont Ave Chicago"
+        ],
+        "ord": "O2018-3795",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Humboldt Park"
+        ],
+        "Neighborhood": [
+            "Hermosa"
+        ],
+        "Ward": "26th Ward",
+        "Ward_Alderman": " Alder Roberto Maldonado",
+        "ZIP Code": [
+            "60639"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2330/",
+        "locations": [
+            "1635 N Keystone Ave Chicago"
+        ],
+        "ord": "O2018-2330",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Logan Square"
+        ],
+        "Neighborhood": [
+            "Palmer Square"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60647"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2299/",
+        "locations": [
+            "2660 W Armitage Ave Chicago"
+        ],
+        "ord": "O2018-2299",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "East Ukrainian Village"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3180/",
+        "locations": [
+            "830 N Ashland Ave Chicago"
+        ],
+        "ord": "O2018-3180",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Avondale"
+        ],
+        "Neighborhood": [
+            "Avondale"
+        ],
+        "Ward": "33rd Ward",
+        "Ward_Alderman": " Alder Deb Mell",
+        "ZIP Code": [
+            "60618"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2371/",
+        "locations": [
+            "3215-3217 N Troy St Chicago"
+        ],
+        "ord": "O2018-2371",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Near West Side"
+        ],
+        "Neighborhood": [
+            "University Village / Little Italy"
+        ],
+        "Ward": "11th Ward",
+        "Ward_Alderman": " Alder Patrick Daley Thompson",
+        "ZIP Code": [
+            "60607"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2453/",
+        "locations": [
+            "1350 S Union Ave Chicago"
+        ],
+        "ord": "O2018-2453",
+        "sponsor_ward": [
+            "Ward 11"
+        ],
+        "sponsors": [
+            "Thompson, Patrick D."
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Loop"
+        ],
+        "Neighborhood": [
+            "The Loop"
+        ],
+        "Ward": "42nd Ward",
+        "Ward_Alderman": " Alder Brendan Reilly",
+        "ZIP Code": [
+            "60601"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-1906/",
+        "locations": [
+            "171 N Wabash Ave Chicago"
+        ],
+        "ord": "O2018-1906",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Noble Square"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60642"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2451/",
+        "locations": [
+            "1537-1541 W Pearson St Chicago"
+        ],
+        "ord": "O2018-2451",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "South Lawndale"
+        ],
+        "Neighborhood": [
+            "Little Village"
+        ],
+        "Ward": "22nd Ward",
+        "Ward_Alderman": " Alder Ricardo Munoz",
+        "ZIP Code": [
+            "60623"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2292/",
+        "locations": [
+            "3305 W Cermak Rd Chicago"
+        ],
+        "ord": "O2018-2292",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Englewood"
+        ],
+        "Neighborhood": [
+            "West Englewood"
+        ],
+        "Ward": "15th Ward",
+        "Ward_Alderman": " Alder Raymond Lopez",
+        "ZIP Code": [
+            "60636"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3267/",
+        "locations": [
+            "1854 W 59th St Chicago"
+        ],
+        "ord": "O2018-3267",
+        "sponsor_ward": [
+            "Ward 15"
+        ],
+        "sponsors": [
+            "Lopez, Raymond A."
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lincoln Square"
+        ],
+        "Neighborhood": [
+            "Ravenswood"
+        ],
+        "Ward": "47th Ward",
+        "Ward_Alderman": " Alder Ameya Pawar",
+        "ZIP Code": [
+            "60640"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3529/",
+        "locations": [
+            "4531 N Wolcott Ave Chicago"
+        ],
+        "ord": "O2018-3529",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "East Garfield Park"
+        ],
+        "Neighborhood": [
+            "East Garfield Park"
+        ],
+        "Ward": "28th Ward",
+        "Ward_Alderman": " Alder Jason Ervin",
+        "ZIP Code": [
+            "60624"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2612/",
+        "locations": [
+            "3456 W Lake St Chicago"
+        ],
+        "ord": "O2018-2612",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "West Town"
+        ],
+        "Ward": "27th Ward",
+        "Ward_Alderman": " Alder Walter Burnett",
+        "ZIP Code": [
+            "60642"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3189/",
+        "locations": [
+            "1156-1160 W Ohio St Chicago"
+        ],
+        "ord": "O2018-3189",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Bridgeport"
+        ],
+        "Neighborhood": [
+            "Bridgeport"
+        ],
+        "Ward": "11th Ward",
+        "Ward_Alderman": " Alder Patrick Daley Thompson",
+        "ZIP Code": [
+            "60608"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3176/",
+        "locations": [
+            "2996 S Archer Ave Chicago"
+        ],
+        "ord": "O2018-3176",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Austin"
+        ],
+        "Neighborhood": [
+            "South Austin"
+        ],
+        "Ward": "29th Ward",
+        "Ward_Alderman": " Alder Chris Taliaferro",
+        "ZIP Code": [
+            "60644"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2293/",
+        "locations": [
+            "112 S Parkside Ave Chicago"
+        ],
+        "ord": "O2018-2293",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Chatham"
+        ],
+        "Neighborhood": [
+            "Chatham"
+        ],
+        "Ward": "6th Ward",
+        "Ward_Alderman": " Alder Roderick Sawyer",
+        "ZIP Code": [
+            "60619"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3188/",
+        "locations": [
+            "7918-7920 S Rhodes Ave Chicago"
+        ],
+        "ord": "O2018-3188",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Calumet Heights"
+        ],
+        "Neighborhood": [
+            "Calumet Heights"
+        ],
+        "Ward": "8th Ward",
+        "Ward_Alderman": " Alder Michelle Harris",
+        "ZIP Code": [
+            "60617"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-863/",
+        "locations": [
+            "9329-9429 S St Chicago"
+        ],
+        "ord": "O2018-863",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Avondale"
+        ],
+        "Neighborhood": [
+            "Logan Square"
+        ],
+        "Ward": "33rd Ward",
+        "Ward_Alderman": " Alder Deb Mell",
+        "ZIP Code": [
+            "60618"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3184/",
+        "locations": [],
+        "ord": "O2018-3184",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lake View"
+        ],
+        "Neighborhood": [
+            "Lake View"
+        ],
+        "Ward": "32nd Ward",
+        "Ward_Alderman": " Alder Scott Waguespack",
+        "ZIP Code": [
+            "60657"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2294/",
+        "locations": [
+            "3045 N Ashland Ave Chicago"
+        ],
+        "ord": "O2018-2294",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Pullman"
+        ],
+        "Ward": "9th Ward",
+        "Ward_Alderman": " Alder Anthony Beale",
+        "ZIP Code": [
+            "60628"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-881/",
+        "locations": [
+            "720 E 111th St Chicago"
+        ],
+        "ord": "O2018-881",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Englewood"
+        ],
+        "Neighborhood": [
+            "West Englewood"
+        ],
+        "Ward": "15th Ward",
+        "Ward_Alderman": " Alder Raymond Lopez",
+        "ZIP Code": [
+            "60636"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3264/",
+        "locations": [
+            "5651 S Damen Ave Chicago"
+        ],
+        "ord": "O2018-3264",
+        "sponsor_ward": [
+            "Ward 15"
+        ],
+        "sponsors": [
+            "Lopez, Raymond A."
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "West Town"
+        ],
+        "Ward": "26th Ward",
+        "Ward_Alderman": " Alder Roberto Maldonado",
+        "ZIP Code": [
+            "60612"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3269/",
+        "locations": [
+            "2424 W Grand Ave Chicago"
+        ],
+        "ord": "O2018-3269",
+        "sponsor_ward": [
+            "Ward 26"
+        ],
+        "sponsors": [
+            "Maldonado, Roberto"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "North Lawndale"
+        ],
+        "Neighborhood": [
+            "Little Village"
+        ],
+        "Ward": "22nd Ward",
+        "Ward_Alderman": " Alder Ricardo Munoz",
+        "ZIP Code": [
+            "60623"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2365/",
+        "locations": [
+            "4225 W Ogden Ave Chicago"
+        ],
+        "ord": "O2018-2365",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "North Center"
+        ],
+        "Neighborhood": [
+            "North Center"
+        ],
+        "Ward": "47th Ward",
+        "Ward_Alderman": " Alder Ameya Pawar",
+        "ZIP Code": [
+            "60618"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3183/",
+        "locations": [
+            "4119 N Western Ave Chicago"
+        ],
+        "ord": "O2018-3183",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Irving Park"
+        ],
+        "Neighborhood": [
+            "Albany Park"
+        ],
+        "Ward": "35th Ward",
+        "Ward_Alderman": " Alder Carlos Ramirez-Rosa",
+        "ZIP Code": [
+            "60618"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2445/",
+        "locations": [
+            "3701 W Montrose Ave Chicago"
+        ],
+        "ord": "O2018-2445",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Belmont Cragin"
+        ],
+        "Neighborhood": [
+            "Hanson Park"
+        ],
+        "Ward": "36th Ward",
+        "Ward_Alderman": " Alder Gilbert Villegas",
+        "ZIP Code": [
+            "60639"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2350/",
+        "locations": [
+            "2106-2108 N Laramie Ave Chicago"
+        ],
+        "ord": "O2018-2350",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lake View"
+        ],
+        "Neighborhood": [
+            "Lake View"
+        ],
+        "Ward": "44th Ward",
+        "Ward_Alderman": " Alder Tom M. Tunney",
+        "ZIP Code": [
+            "60657"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3796/",
+        "locations": [
+            "821 W Oakdale Ave Chicago"
+        ],
+        "ord": "O2018-3796",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Noble Square"
+        ],
+        "Ward": "2nd Ward",
+        "Ward_Alderman": " Alder Brian Hopkins",
+        "ZIP Code": [
+            "60642"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2354/",
+        "locations": [
+            "1454 W Chestnut St Chicago"
+        ],
+        "ord": "O2018-2354",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lower West Side"
+        ],
+        "Neighborhood": [
+            "Heart of Chicago"
+        ],
+        "Ward": "25th Ward",
+        "Ward_Alderman": " Alder Daniel S. Solis",
+        "ZIP Code": [
+            "60608"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2296/",
+        "locations": [
+            "2350 S Leavitt St Chicago"
+        ],
+        "ord": "O2018-2296",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "McKinley Park"
+        ],
+        "Neighborhood": [
+            "McKinley Park"
+        ],
+        "Ward": "12th Ward",
+        "Ward_Alderman": " Alder George A. Cardenas",
+        "ZIP Code": [
+            "60609"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2738/",
+        "locations": [
+            "1900 W Pershing Pl Chicago"
+        ],
+        "ord": "O2018-2738",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Belmont Cragin"
+        ],
+        "Neighborhood": [
+            "Cragin"
+        ],
+        "Ward": "30th Ward",
+        "Ward_Alderman": " Alder Ariel E. Reboyras",
+        "ZIP Code": [
+            "60639"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-4782/",
+        "locations": [
+            "1257-1258 W Wrightwood Ave Chicago"
+        ],
+        "ord": "O2018-4782",
+        "sponsor_ward": [
+            "Ward 43"
+        ],
+        "sponsors": [
+            "Smith, Michele"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Near South Side"
+        ],
+        "Neighborhood": [
+            "South Loop"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3238/",
+        "locations": [
+            "122-128 W Cullerton St Chicago",
+            "123-127 W 19th St Chicago",
+            "1900-1934 S Clark St Chicago"
+        ],
+        "ord": "O2018-3238",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Bucktown"
+        ],
+        "Ward": "32nd Ward",
+        "Ward_Alderman": " Alder Scott Waguespack",
+        "ZIP Code": [
+            "60647"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3411/",
+        "locations": [
+            "1737-1741 N Western Ave Chicago"
+        ],
+        "ord": "O2018-3411",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Logan Square"
+        ],
+        "Neighborhood": [
+            "Logan Square"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60647"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-2310/",
+        "locations": [
+            "1821 N Kimball Ave Chicago"
+        ],
+        "ord": "O2018-2310",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "East Ukrainian Village"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3227/",
+        "locations": [
+            "1604-1608 W Chicago Ave Chicago"
+        ],
+        "ord": "O2018-3227",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Englewood"
+        ],
+        "Neighborhood": [
+            "West Englewood"
+        ],
+        "Ward": "15th Ward",
+        "Ward_Alderman": " Alder Raymond Lopez",
+        "ZIP Code": [
+            "60636"
+        ],
+        "date": "2018-05-25",
+        "href": "/legislation/o2018-3260/",
+        "locations": [
+            "5543 S Damen Ave Chicago"
+        ],
+        "ord": "O2018-3260",
+        "sponsor_ward": [
+            "Ward 15"
+        ],
+        "sponsors": [
+            "Lopez, Raymond A."
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Roseland"
+        ],
+        "Neighborhood": [
+            "Rosemoor"
+        ],
+        "Ward": "9th Ward",
+        "Ward_Alderman": " Alder Anthony Beale",
+        "ZIP Code": [
+            "60628"
+        ],
+        "date": "2018-05-23",
+        "href": "/legislation/o2018-4496/",
+        "locations": [
+            "3203 E 100th St Chicago"
+        ],
+        "ord": "O2018-4496",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Riverdale"
+        ],
+        "Neighborhood": [
+            "Eden Green"
+        ],
+        "Ward": "9th Ward",
+        "Ward_Alderman": " Alder Anthony Beale",
+        "ZIP Code": [
+            "60827"
+        ],
+        "date": "2018-05-23",
+        "href": "/legislation/o2018-4017/",
+        "locations": [
+            "2222-2230 S Michigan Ave Chicago"
+        ],
+        "ord": "O2018-4017",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Gage Park"
+        ],
+        "Neighborhood": [
+            "Gage Park"
+        ],
+        "Ward": "14th Ward",
+        "Ward_Alderman": " Alder Edward M. Burke",
+        "ZIP Code": [
+            "60632"
+        ],
+        "date": "2018-05-23",
+        "href": "/legislation/o2018-4026/",
+        "locations": [
+            "2600 W 55th St Chicago"
+        ],
+        "ord": "O2018-4026",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Fulton River District"
+        ],
+        "Ward": "27th Ward",
+        "Ward_Alderman": " Alder Walter Burnett",
+        "ZIP Code": [
+            "60642"
+        ],
+        "date": "2018-05-23",
+        "href": "/legislation/o2018-4201/",
+        "locations": [
+            "5241-5149 N Milwaukee Ave Chicago"
+        ],
+        "ord": "O2018-4201",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Woodlawn"
+        ],
+        "Ward": "5th Ward",
+        "Ward_Alderman": " Alder Leslie Hairston",
+        "ZIP Code": [
+            "60637"
+        ],
+        "date": "2018-05-23",
+        "href": "/legislation/o2018-123/",
+        "locations": [
+            "1601-1629 E Midway Pl Chicago",
+            "5901-6201 S Cornell Dr Chicago",
+            "5901-6201 S St Chicago",
+            "1600-1631 E Midway Pl Chicago"
+        ],
+        "ord": "O2018-123",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lake View"
+        ],
+        "Neighborhood": [
+            "Lake View"
+        ],
+        "Ward": "47th Ward",
+        "Ward_Alderman": " Alder Ameya Pawar",
+        "ZIP Code": [
+            "60613"
+        ],
+        "date": "2018-05-22",
+        "href": "/legislation/o2018-3790/",
+        "locations": [
+            "1637 W Addison St Chicago"
+        ],
+        "ord": "O2018-3790",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Near West Side"
+        ],
+        "Neighborhood": [
+            "West Loop Gate"
+        ],
+        "Ward": "42nd Ward",
+        "Ward_Alderman": " Alder Brendan Reilly",
+        "ZIP Code": [
+            "60661"
+        ],
+        "date": "2018-05-22",
+        "href": "/legislation/o2018-3274/",
+        "locations": [
+            "320 S Clinton St Chicago"
+        ],
+        "ord": "O2018-3274",
+        "sponsor_ward": [
+            "Ward 42"
+        ],
+        "sponsors": [
+            "Reilly, Brendan"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lincoln Square"
+        ],
+        "Neighborhood": [
+            "Ravenswood"
+        ],
+        "Ward": "47th Ward",
+        "Ward_Alderman": " Alder Ameya Pawar",
+        "ZIP Code": [
+            "60640"
+        ],
+        "date": "2018-05-22",
+        "href": "/legislation/o2018-3577/",
+        "locations": [
+            "1952 W Lawrence Ave Chicago"
+        ],
+        "ord": "O2018-3577",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Loop"
+        ],
+        "Neighborhood": [
+            "The Loop"
+        ],
+        "Ward": "42nd Ward",
+        "Ward_Alderman": " Alder Brendan Reilly",
+        "ZIP Code": [
+            "60601"
+        ],
+        "date": "2018-05-22",
+        "href": "/legislation/o2018-3271/",
+        "locations": [
+            "50-60 E Randolph St Chicago"
+        ],
+        "ord": "O2018-3271",
+        "sponsor_ward": [
+            "Ward 42"
+        ],
+        "sponsors": [
+            "Reilly, Brendan"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Avondale"
+        ],
+        "Neighborhood": [
+            "Logan Square"
+        ],
+        "Ward": "35th Ward",
+        "Ward_Alderman": " Alder Carlos Ramirez-Rosa",
+        "ZIP Code": [
+            "60618"
+        ],
+        "date": "2018-05-22",
+        "href": "/legislation/o2017-143/",
+        "locations": [
+            "3201 W Belmont Ave Chicago"
+        ],
+        "ord": "O2017-143",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Brighton Park"
+        ],
+        "Neighborhood": [
+            "Brighton Park"
+        ],
+        "Ward": "15th Ward",
+        "Ward_Alderman": " Alder Raymond Lopez",
+        "ZIP Code": [
+            "60609"
+        ],
+        "date": "2018-05-09",
+        "href": "/legislation/o2018-2308/",
+        "locations": [
+            "4326-4332 S Western Ave Chicago"
+        ],
+        "ord": "O2018-2308",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lake View"
+        ],
+        "Neighborhood": [
+            "Wrigleyville"
+        ],
+        "Ward": "44th Ward",
+        "Ward_Alderman": " Alder Tom M. Tunney",
+        "ZIP Code": [
+            "60657"
+        ],
+        "date": "2018-05-09",
+        "href": "/legislation/o2018-2386/",
+        "locations": [
+            "3500-3504 N Clark St Chicago"
+        ],
+        "ord": "O2018-2386",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Humboldt Park"
+        ],
+        "Neighborhood": [
+            "Logan Square"
+        ],
+        "Ward": "26th Ward",
+        "Ward_Alderman": " Alder Roberto Maldonado",
+        "ZIP Code": [
+            "60647"
+        ],
+        "date": "2018-05-09",
+        "href": "/legislation/o2017-6189/",
+        "locations": [
+            "1617 N Spaulding Ave Chicago"
+        ],
+        "ord": "O2017-6189",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "North Center"
+        ],
+        "Neighborhood": [
+            "Lathrop Homes"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60618"
+        ],
+        "date": "2018-05-09",
+        "href": "/legislation/o2018-2311/",
+        "locations": [],
+        "ord": "O2018-2311",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Wicker Park"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2018-05-09",
+        "href": "/legislation/o2018-2326/",
+        "locations": [
+            "1812-1814 W Division St Chicago"
+        ],
+        "ord": "O2018-2326",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lower West Side"
+        ],
+        "Neighborhood": [
+            "Pilsen"
+        ],
+        "Ward": "25th Ward",
+        "Ward_Alderman": " Alder Daniel S. Solis",
+        "ZIP Code": [
+            "60608"
+        ],
+        "date": "2018-05-09",
+        "href": "/legislation/o2018-644/",
+        "locations": [
+            "1631 S Carpenter St Chicago"
+        ],
+        "ord": "O2018-644",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "New City"
+        ],
+        "Neighborhood": [
+            "Canaryville"
+        ],
+        "Ward": "11th Ward",
+        "Ward_Alderman": " Alder Patrick Daley Thompson",
+        "ZIP Code": [
+            "60609"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-1894/",
+        "locations": [
+            "4403 S Wallace St Chicago"
+        ],
+        "ord": "O2018-1894",
+        "sponsor_ward": [
+            "Ward 11"
+        ],
+        "sponsors": [
+            "Thompson, Patrick D."
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Clearing"
+        ],
+        "Neighborhood": [
+            "Clearing (East)"
+        ],
+        "Ward": "13th Ward",
+        "Ward_Alderman": " Alder Marty Quinn",
+        "ZIP Code": [
+            "60638"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-2352/",
+        "locations": [
+            "6455-6459 S LaCrosse Ave Chicago"
+        ],
+        "ord": "O2018-2352",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lake View"
+        ],
+        "Neighborhood": [
+            "Lake View"
+        ],
+        "Ward": "44th Ward",
+        "Ward_Alderman": " Alder Tom M. Tunney",
+        "ZIP Code": [
+            "60657"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-1141/",
+        "locations": [
+            "3200-3210 N Southport Ave Chicago",
+            "1400-1406 W Belmont Ave Chicago"
+        ],
+        "ord": "O2018-1141",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "South Lawndale"
+        ],
+        "Ward": "22nd Ward",
+        "Ward_Alderman": " Alder Ricardo Munoz",
+        "ZIP Code": [
+            "60632"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-1884/",
+        "locations": [
+            "4200 W 35th Pl Chicago",
+            "4201 W 35th Pl Chicago",
+            "3438-3500 S Pulaski Rd Chicago"
+        ],
+        "ord": "O2018-1884",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Wicker Park"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2016-6342/",
+        "locations": [
+            "1624 W Division St Chicago"
+        ],
+        "ord": "O2016-6342",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Albany Park"
+        ],
+        "Neighborhood": [
+            "North Mayfair"
+        ],
+        "Ward": "39th Ward",
+        "Ward_Alderman": " Alder Margaret Laurino",
+        "ZIP Code": [
+            "60630"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-1897/",
+        "locations": [
+            "4941-4945 N Keystone Ave Chicago"
+        ],
+        "ord": "O2018-1897",
+        "sponsor_ward": [
+            "Ward 39"
+        ],
+        "sponsors": [
+            "Laurino, Margaret"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lower West Side"
+        ],
+        "Neighborhood": [
+            "Little Village"
+        ],
+        "Ward": "25th Ward",
+        "Ward_Alderman": " Alder Daniel S. Solis",
+        "ZIP Code": [
+            "60608"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-1901/",
+        "locations": [
+            "2425-2447 W 24th St Chicago",
+            "2414-2444 W 24th Pl Chicago"
+        ],
+        "ord": "O2018-1901",
+        "sponsor_ward": [
+            "Ward 25"
+        ],
+        "sponsors": [
+            "Solis, Daniel"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Clearing"
+        ],
+        "Neighborhood": [
+            "Clearing (West)"
+        ],
+        "Ward": "13th Ward",
+        "Ward_Alderman": " Alder Marty Quinn",
+        "ZIP Code": [
+            "60638"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-677/",
+        "locations": [
+            "5742-5744 W 63rd St Chicago"
+        ],
+        "ord": "O2018-677",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lake View"
+        ],
+        "Neighborhood": [
+            "Wrigleyville"
+        ],
+        "Ward": "44th Ward",
+        "Ward_Alderman": " Alder Tom M. Tunney",
+        "ZIP Code": [
+            "60657"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-1898/",
+        "locations": [
+            "3551 N Sheffield Ave Chicago"
+        ],
+        "ord": "O2018-1898",
+        "sponsor_ward": [
+            "Ward 44"
+        ],
+        "sponsors": [
+            "Tunney, Thomas"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lake View"
+        ],
+        "Neighborhood": [
+            "Lake View"
+        ],
+        "Ward": "47th Ward",
+        "Ward_Alderman": " Alder Ameya Pawar",
+        "ZIP Code": [
+            "60613"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2017-7893/",
+        "locations": [
+            "3720-3722 N Ashland Ave Chicago"
+        ],
+        "ord": "O2017-7893",
+        "sponsor_ward": [
+            "Ward 47"
+        ],
+        "sponsors": [
+            "Pawar, Ameya"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "West Town"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60642"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-1893/",
+        "locations": [
+            "1462 W Ohio St Chicago"
+        ],
+        "ord": "O2018-1893",
+        "sponsor_ward": [
+            "Ward 1"
+        ],
+        "sponsors": [
+            "Moreno, Proco Joe"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Wicker Park"
+        ],
+        "Ward": "2nd Ward",
+        "Ward_Alderman": " Alder Brian Hopkins",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-131/",
+        "locations": [
+            "1428 N Paulina St Chicago"
+        ],
+        "ord": "O2018-131",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "North Lawndale"
+        ],
+        "Neighborhood": [
+            "Lawndale"
+        ],
+        "Ward": "28th Ward",
+        "Ward_Alderman": " Alder Jason Ervin",
+        "ZIP Code": [
+            "60612"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-1896/",
+        "locations": [
+            "2605-2661 W Harrison St Chicago",
+            "601-811 S Washtenaw Ave Chicago",
+            "819-927 S California Ave Chicago",
+            "2606-2758 W Taylor St Chicago",
+            "2701-2727 W Taylor St Chicago"
+        ],
+        "ord": "O2018-1896",
+        "sponsor_ward": [
+            "Ward 28"
+        ],
+        "sponsors": [
+            "Ervin, Jason C."
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Near West Side"
+        ],
+        "Neighborhood": [
+            "West Loop Gate"
+        ],
+        "Ward": "42nd Ward",
+        "Ward_Alderman": " Alder Brendan Reilly",
+        "ZIP Code": [
+            "60661"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-1900/",
+        "locations": [
+            "601 W Monroe St Chicago"
+        ],
+        "ord": "O2018-1900",
+        "sponsor_ward": [
+            "Ward 42"
+        ],
+        "sponsors": [
+            "Reilly, Brendan"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Edgewater"
+        ],
+        "Neighborhood": [
+            "Andersonville"
+        ],
+        "Ward": "40th Ward",
+        "Ward_Alderman": " Alder Patrick J. O'Connor",
+        "ZIP Code": [
+            "60640"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-1899/",
+        "locations": [
+            "5200 N Ashland Ave Chicago"
+        ],
+        "ord": "O2018-1899",
+        "sponsor_ward": [
+            "Ward 40"
+        ],
+        "sponsors": [
+            "O'Connor, Patrick"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "South Shore"
+        ],
+        "Neighborhood": [
+            "South Shore"
+        ],
+        "Ward": "5th Ward",
+        "Ward_Alderman": " Alder Leslie Hairston",
+        "ZIP Code": [
+            "60649"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-888/",
+        "locations": [],
+        "ord": "O2018-888",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "North Lawndale"
+        ],
+        "Neighborhood": [
+            "Lawndale"
+        ],
+        "Ward": "24th Ward",
+        "Ward_Alderman": " Alder Michael Scott",
+        "ZIP Code": [
+            "60623"
+        ],
+        "date": "2018-04-18",
+        "href": "/legislation/o2018-1895/",
+        "locations": [
+            "3832-3858 W 16th St Chicago",
+            "1550-1558 S Ave Chicago",
+            "1551-1559 S Springfield Ave Chicago"
+        ],
+        "ord": "O2018-1895",
+        "sponsor_ward": [
+            "Ward 24"
+        ],
+        "sponsors": [
+            "Scott, Jr. Michael"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "McKinley Park"
+        ],
+        "Neighborhood": [
+            "McKinley Park"
+        ],
+        "Ward": "12th Ward",
+        "Ward_Alderman": " Alder George A. Cardenas",
+        "ZIP Code": [
+            "60608"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-207/",
+        "locations": [
+            "3211-3213 S Archer Ave Chicago"
+        ],
+        "ord": "O2018-207",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "North Center"
+        ],
+        "Neighborhood": [
+            "Lake View"
+        ],
+        "Ward": "32nd Ward",
+        "Ward_Alderman": " Alder Scott Waguespack",
+        "ZIP Code": [
+            "60618"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-648/",
+        "locations": [
+            "2025 W George St Chicago"
+        ],
+        "ord": "O2018-648",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "South Lawndale"
+        ],
+        "Neighborhood": [
+            "Little Village"
+        ],
+        "Ward": "12th Ward",
+        "Ward_Alderman": " Alder George A. Cardenas",
+        "ZIP Code": [
+            "60608"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-867/",
+        "locations": [
+            "2719-2725 W Cermak Rd Chicago"
+        ],
+        "ord": "O2018-867",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Logan Square"
+        ],
+        "Neighborhood": [
+            "Palmer Square"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60647"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-1891/",
+        "locations": [
+            "2116 N California Ave Chicago"
+        ],
+        "ord": "O2018-1891",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lower West Side"
+        ],
+        "Neighborhood": [
+            "Heart of Chicago"
+        ],
+        "Ward": "25th Ward",
+        "Ward_Alderman": " Alder Daniel S. Solis",
+        "ZIP Code": [
+            "60608"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-891/",
+        "locations": [
+            "2000 W 23rd St Chicago"
+        ],
+        "ord": "O2018-891",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Mount Greenwood"
+        ],
+        "Neighborhood": [
+            "Mount Greenwood"
+        ],
+        "Ward": "19th Ward",
+        "Ward_Alderman": " Alder Matthew O'Shea",
+        "ZIP Code": [
+            "60655"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-1889/",
+        "locations": [
+            "11045 S Troy St Chicago",
+            "3124 W 111th St Chicago"
+        ],
+        "ord": "O2018-1889",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Bucktown"
+        ],
+        "Ward": "32nd Ward",
+        "Ward_Alderman": " Alder Scott Waguespack",
+        "ZIP Code": [
+            "60647"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2017-5527/",
+        "locations": [
+            "1737-1741 N Western Ave Chicago"
+        ],
+        "ord": "O2017-5527",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Near West Side"
+        ],
+        "Neighborhood": [
+            "Near West Side"
+        ],
+        "Ward": "28th Ward",
+        "Ward_Alderman": " Alder Jason Ervin",
+        "ZIP Code": [
+            "60607"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2017-5510/",
+        "locations": [
+            "201-219 S Ashland Ave Chicago"
+        ],
+        "ord": "O2017-5510",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lake View"
+        ],
+        "Neighborhood": [
+            "Roscoe Village"
+        ],
+        "Ward": "47th Ward",
+        "Ward_Alderman": " Alder Ameya Pawar",
+        "ZIP Code": [
+            "60657"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-894/",
+        "locations": [],
+        "ord": "O2018-894",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Pullman"
+        ],
+        "Neighborhood": [
+            "West Pullman"
+        ],
+        "Ward": "34th Ward",
+        "Ward_Alderman": " Alder Carrie M Austin",
+        "ZIP Code": [
+            "60628"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-1052/",
+        "locations": [
+            "11941 S Parnell Ave Chicago"
+        ],
+        "ord": "O2018-1052",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "West Town"
+        ],
+        "Ward": "26th Ward",
+        "Ward_Alderman": " Alder Roberto Maldonado",
+        "ZIP Code": [
+            "60612"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-882/",
+        "locations": [
+            "2044 W Ohio St Chicago"
+        ],
+        "ord": "O2018-882",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Elsdon"
+        ],
+        "Neighborhood": [
+            "West Elsdon"
+        ],
+        "Ward": "23rd Ward",
+        "Ward_Alderman": " Alder Silvana Tabares",
+        "ZIP Code": [
+            "60632"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-907/",
+        "locations": [
+            "5354 S Kenneth Ave Chicago"
+        ],
+        "ord": "O2018-907",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lincoln Square"
+        ],
+        "Neighborhood": [
+            "Ravenswood"
+        ],
+        "Ward": "40th Ward",
+        "Ward_Alderman": " Alder Patrick J. O'Connor",
+        "ZIP Code": [
+            "60625"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-889/",
+        "locations": [
+            "4738 N Virginia Ave Chicago"
+        ],
+        "ord": "O2018-889",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Noble Square"
+        ],
+        "Ward": "2nd Ward",
+        "Ward_Alderman": " Alder Brian Hopkins",
+        "ZIP Code": [
+            "60642"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-654/",
+        "locations": [
+            "1460 W Cortez St Chicago"
+        ],
+        "ord": "O2018-654",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lower West Side"
+        ],
+        "Neighborhood": [
+            "Heart of Chicago"
+        ],
+        "Ward": "25th Ward",
+        "Ward_Alderman": " Alder Daniel S. Solis",
+        "ZIP Code": [
+            "60608"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-900/",
+        "locations": [
+            "2353-2355 W 18th Pl Chicago"
+        ],
+        "ord": "O2018-900",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lower West Side"
+        ],
+        "Neighborhood": [
+            "Heart of Chicago"
+        ],
+        "Ward": "25th Ward",
+        "Ward_Alderman": " Alder Daniel S. Solis",
+        "ZIP Code": [
+            "60608"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-1886/",
+        "locations": [
+            "1813 W Cermak Rd Chicago"
+        ],
+        "ord": "O2018-1886",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Avondale"
+        ],
+        "Neighborhood": [
+            "Avondale"
+        ],
+        "Ward": "33rd Ward",
+        "Ward_Alderman": " Alder Deb Mell",
+        "ZIP Code": [
+            "60618"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-899/",
+        "locations": [
+            "2920 W Belmont Ave Chicago"
+        ],
+        "ord": "O2018-899",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Bridgeport"
+        ],
+        "Neighborhood": [
+            "Bridgeport"
+        ],
+        "Ward": "11th Ward",
+        "Ward_Alderman": " Alder Patrick Daley Thompson",
+        "ZIP Code": [
+            "60616"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-1101/",
+        "locations": [
+            "3402-3404 S Parnell Ave Chicago"
+        ],
+        "ord": "O2018-1101",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Near West Side"
+        ],
+        "Neighborhood": [
+            "Near West Side"
+        ],
+        "Ward": "28th Ward",
+        "Ward_Alderman": " Alder Jason Ervin",
+        "ZIP Code": [
+            "60607"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-655/",
+        "locations": [
+            "1220-1236 W Jackson Blvd Chicago"
+        ],
+        "ord": "O2018-655",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Grand Boulevard"
+        ],
+        "Neighborhood": [
+            "Bronzeville"
+        ],
+        "Ward": "3rd Ward",
+        "Ward_Alderman": " Alder Pat Dowell",
+        "ZIP Code": [
+            "60653"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-1905/",
+        "locations": [
+            "4007 S Wabash Ave Chicago"
+        ],
+        "ord": "O2018-1905",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lower West Side"
+        ],
+        "Neighborhood": [
+            "Heart of Chicago"
+        ],
+        "Ward": "25th Ward",
+        "Ward_Alderman": " Alder Daniel S. Solis",
+        "ZIP Code": [
+            "60608"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-1887/",
+        "locations": [
+            "1713 W Cullerton St Chicago"
+        ],
+        "ord": "O2018-1887",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lincoln Park"
+        ],
+        "Neighborhood": [
+            "Lincoln Park"
+        ],
+        "Ward": "43rd Ward",
+        "Ward_Alderman": " Alder Michele Smith",
+        "ZIP Code": [
+            "60614"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-911/",
+        "locations": [
+            "2201-2207 N Halsted St Chicago"
+        ],
+        "ord": "O2018-911",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Humboldt Park"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-895/",
+        "locations": [
+            "1514-1518 N Western Ave Chicago"
+        ],
+        "ord": "O2018-895",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Logan Square"
+        ],
+        "Neighborhood": [
+            "Bucktown"
+        ],
+        "Ward": "32nd Ward",
+        "Ward_Alderman": " Alder Scott Waguespack",
+        "ZIP Code": [
+            "60647"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2017-9005/",
+        "locations": [
+            "2016 W Webster Ave Chicago"
+        ],
+        "ord": "O2017-9005",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lake View"
+        ],
+        "Neighborhood": [
+            "Lake View"
+        ],
+        "Ward": "32nd Ward",
+        "Ward_Alderman": " Alder Scott Waguespack",
+        "ZIP Code": [
+            "60657"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-919/",
+        "locations": [
+            "1503-1505 W George St Chicago"
+        ],
+        "ord": "O2018-919",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Avondale"
+        ],
+        "Neighborhood": [
+            "Avondale"
+        ],
+        "Ward": "33rd Ward",
+        "Ward_Alderman": " Alder Deb Mell",
+        "ZIP Code": [
+            "60618"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2017-7046/",
+        "locations": [
+            "3253 N Elston Ave Chicago"
+        ],
+        "ord": "O2017-7046",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Irving Park"
+        ],
+        "Neighborhood": [
+            "Kilbourn Park"
+        ],
+        "Ward": "30th Ward",
+        "Ward_Alderman": " Alder Ariel E. Reboyras",
+        "ZIP Code": [
+            "60641"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-2394/",
+        "locations": [
+            "3200-3204 N Kildare Ave Chicago",
+            "3210-3211 N Kildare Ave Chicago",
+            "3200-3210 N Keeler Ave Chicago",
+            "3215-3225 N Keeler Ave Chicago",
+            "4151-4157 W Melrose St Chicago",
+            "4200-4308 W Belmont Ave Chicago"
+        ],
+        "ord": "O2018-2394",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "East Garfield Park"
+        ],
+        "Neighborhood": [
+            "Near West Side"
+        ],
+        "Ward": "27th Ward",
+        "Ward_Alderman": " Alder Walter Burnett",
+        "ZIP Code": [
+            "60612"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-1268/",
+        "locations": [
+            "2623 W Monroe St Chicago"
+        ],
+        "ord": "O2018-1268",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Albany Park"
+        ],
+        "Neighborhood": [
+            "North Mayfair"
+        ],
+        "Ward": "39th Ward",
+        "Ward_Alderman": " Alder Margaret Laurino",
+        "ZIP Code": [
+            "60630"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-549/",
+        "locations": [
+            "4601-4715 W Foster Ave Chicago"
+        ],
+        "ord": "O2018-549",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "South Lawndale"
+        ],
+        "Neighborhood": [
+            "Little Village"
+        ],
+        "Ward": "22nd Ward",
+        "Ward_Alderman": " Alder Ricardo Munoz",
+        "ZIP Code": [
+            "60623"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-866/",
+        "locations": [
+            "2221 S Lawndale Ave Chicago"
+        ],
+        "ord": "O2018-866",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Near West Side"
+        ],
+        "Neighborhood": [
+            "West Town"
+        ],
+        "Ward": "27th Ward",
+        "Ward_Alderman": " Alder Walter Burnett",
+        "ZIP Code": [
+            "60607"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2017-8984/",
+        "locations": [
+            "352-372 N Green St Chicago",
+            "833-857 W Kinzie St Chicago",
+            "357-373 N Peoria St Chicago",
+            "358-360 N Peoria St Chicago",
+            "363 N Sangamon St Chicago",
+            "363 N Morgan St Chicago"
+        ],
+        "ord": "O2017-8984",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Near North Side"
+        ],
+        "Neighborhood": [
+            "Old Town"
+        ],
+        "Ward": "27th Ward",
+        "Ward_Alderman": " Alder Walter Burnett",
+        "ZIP Code": [
+            "60610"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2017-7054/",
+        "locations": [
+            "335-345 W Schiller St Chicago",
+            "1355-1369 N Sedgwick St Chicago"
+        ],
+        "ord": "O2017-7054",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Woodlawn"
+        ],
+        "Neighborhood": [
+            "Park Manor"
+        ],
+        "Ward": "20th Ward",
+        "Ward_Alderman": " Alder Willie Cochran",
+        "ZIP Code": [
+            "60637"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2017-8635/",
+        "locations": [
+            "6817-6853 S South Chicago Ave Chicago"
+        ],
+        "ord": "O2017-8635",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Hyde Park"
+        ],
+        "Neighborhood": [
+            "Hyde Park"
+        ],
+        "Ward": "5th Ward",
+        "Ward_Alderman": " Alder Leslie Hairston",
+        "ZIP Code": [
+            "60637"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-887/",
+        "locations": [
+            "1327 E 57th St Chicago"
+        ],
+        "ord": "O2018-887",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lake View"
+        ],
+        "Neighborhood": [
+            "Lake View East"
+        ],
+        "Ward": "44th Ward",
+        "Ward_Alderman": " Alder Tom M. Tunney",
+        "ZIP Code": [
+            "60657"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-1902/",
+        "locations": [
+            "615-623 W Belmont Ave Chicago"
+        ],
+        "ord": "O2018-1902",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Humboldt Park"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-1875/",
+        "locations": [
+            "1512 N Rockwell St Chicago"
+        ],
+        "ord": "O2018-1875",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Humboldt Park"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-1878/",
+        "locations": [
+            "1531 N Maplewood Ave Chicago"
+        ],
+        "ord": "O2018-1878",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Wicker Park"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60647"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-1890/",
+        "locations": [
+            "2025-2027 W North Ave Chicago"
+        ],
+        "ord": "O2018-1890",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lake View"
+        ],
+        "Neighborhood": [
+            "Lake View"
+        ],
+        "Ward": "32nd Ward",
+        "Ward_Alderman": " Alder Scott Waguespack",
+        "ZIP Code": [
+            "60657"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-1904/",
+        "locations": [],
+        "ord": "O2018-1904",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Bucktown"
+        ],
+        "Ward": "2nd Ward",
+        "Ward_Alderman": " Alder Brian Hopkins",
+        "ZIP Code": [
+            "60647"
+        ],
+        "date": "2018-02-28",
+        "href": "/legislation/o2017-3855/",
+        "locations": [
+            "1616-1626 N Damen Ave Chicago"
+        ],
+        "ord": "O2017-3855",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Goose Island"
+        ],
+        "Ward": "27th Ward",
+        "Ward_Alderman": " Alder Walter Burnett",
+        "ZIP Code": [
+            "60642"
+        ],
+        "date": "2018-02-28",
+        "href": "/legislation/o2017-6218/",
+        "locations": [
+            "1114-1128 W Chicago Ave Chicago",
+            "800-818 N Milwaukee Ave Chicago"
+        ],
+        "ord": "O2017-6218",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Lincoln Park"
+        ],
+        "Neighborhood": [
+            "Old Town Triangle"
+        ],
+        "Ward": "43rd Ward",
+        "Ward_Alderman": " Alder Michele Smith",
+        "ZIP Code": [
+            "60614"
+        ],
+        "date": "2018-02-28",
+        "href": "/legislation/o2017-7059/",
+        "locations": [
+            "1754 N Clark St Chicago"
+        ],
+        "ord": "O2017-7059",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "North Park"
+        ],
+        "Neighborhood": [
+            "Sauganash"
+        ],
+        "Ward": "39th Ward",
+        "Ward_Alderman": " Alder Margaret Laurino",
+        "ZIP Code": [
+            "60646"
+        ],
+        "date": "2018-02-28",
+        "href": "/legislation/o2018-647/",
+        "locations": [
+            "6200 N Pulaski Rd Chicago"
+        ],
+        "ord": "O2018-647",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "Goose Island"
+        ],
+        "Ward": "27th Ward",
+        "Ward_Alderman": " Alder Walter Burnett",
+        "ZIP Code": [
+            "60610"
+        ],
+        "date": "2018-02-28",
+        "href": "/legislation/o2017-6176/",
+        "locations": [
+            "640-740 W Chicago Ave Chicago",
+            "801-843 N Halsted St Chicago"
+        ],
+        "ord": "O2017-6176",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "Logan Square"
+        ],
+        "Neighborhood": [
+            "Logan Square"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60647"
+        ],
+        "date": "2018-02-28",
+        "href": "/legislation/o2018-896/",
+        "locations": [
+            "2522 W Fullerton Ave Chicago"
+        ],
+        "ord": "O2018-896",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Stale",
+        "year": 2018
+    },
+    {
+        "Community Area": [
+            "West Town"
+        ],
+        "Neighborhood": [
+            "West Town"
+        ],
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60612"
+        ],
+        "date": "2018-02-28",
+        "href": "/legislation/o2017-9012/",
+        "locations": [
+            "2005 W Huron St Chicago"
+        ],
+        "ord": "O2017-9012",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "year": 2018
+    },
+    {
+        "Applicant": "Albert M. Zaucha",
+        "Architect": "",
+        "Community Area": [
+            "Belmont Cragin"
+        ],
+        "Law firm": "",
+        "Lawyer": "Louis Weinstock",
+        "Neighborhood": [
+            "Belmont Central"
+        ],
+        "Owner": "Albert M. Zaucha",
+        "Ward": "36th Ward",
+        "Ward_Alderman": " Alder Gilbert Villegas",
+        "ZIP Code": [
+            "60639"
+        ],
+        "date": "2018-03-28",
+        "href": "/legislation/o2018-679/",
+        "locations": [
+            "2200 N Mango Ave Chicago"
+        ],
+        "ord": "O2018-679",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "summary": "Legalize and renovate a 549 square foot, one story frame addition to an existing 2,175 square foot, two story brick residential building with two parking spaces and an attic. Also to convert from two dwelling units to three units, with no change to the existing building height of 24 feet and 8 inches",
+        "year": 2018
+    },
+    {
+        "Applicant": "Beulah Auto, Inc",
+        "Architect": "",
+        "Community Area": [
+            "Austin"
+        ],
+        "Law firm": "",
+        "Lawyer": "",
+        "Neighborhood": [
+            "West Garfield Park"
+        ],
+        "Owner": "Petro Boulahanis",
+        "Ward": "24th Ward",
+        "Ward_Alderman": " Alder Michael Scott",
+        "ZIP Code": [
+            "60644"
+        ],
+        "date": "2018-02-28",
+        "href": "/legislation/o2017-7360/",
+        "locations": [
+            "4700 W Harrison Ave Chicago"
+        ],
+        "ord": "O2017-7360",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "summary": "Auto repair garage with used car sales.",
+        "year": 2018
+    },
+    {
+        "Applicant": "1246 W George St. LLC",
+        "Architect": "",
+        "Community Area": [
+            "Lake View"
+        ],
+        "Law firm": "",
+        "Lawyer": "Thomas S. Moore",
+        "Neighborhood": [
+            "Lake View"
+        ],
+        "Owner": "1246 W George St. LLC",
+        "Ward": "32nd Ward",
+        "Ward_Alderman": " Alder Scott Waguespack",
+        "ZIP Code": [
+            "60657"
+        ],
+        "date": "2018-02-28",
+        "href": "/legislation/o2018-649/",
+        "locations": [
+            "1246 W George St Chicago"
+        ],
+        "ord": "O2018-649",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "summary": "Applicant seeks to convert from commercial to a single family home and renovate and construct a new 3rd floor addition to an existing 2 story building for a total building height of 38 feet with garage.",
+        "year": 2018
+    },
+    {
+        "Applicant": "SGR Capital Group. LLC",
+        "Architect": "Michael J Leary Architects",
+        "Community Area": [
+            "West Town"
+        ],
+        "Law firm": "",
+        "Lawyer": "Law Offices of Samuel V.P. Banks",
+        "Neighborhood": [
+            "West Town"
+        ],
+        "Owner": "SGR Capital Group. LLC",
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60612"
+        ],
+        "date": "2017-05-24",
+        "href": "/legislation/o2017-901/",
+        "locations": [
+            "2335 W Montrose Ave Chicago"
+        ],
+        "ord": "O2017-901",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "summary": "The Applicant is proposing to develop the subject property with a new three-story residential building that will contain two (2) dwelling units.The proposed building will be masonry construction.The proposed building will be 35 feet 6 inches in height. A two-car detached garage will be located at the rear of the subject lot.",
+        "year": 2017
+    },
+    {
+        "Applicant": "Mark Goodman & Associates, Inc.",
+        "Architect": "Solomon Cordwell Buenz (SCB)",
+        "Community Area": [
+            "Near West Side"
+        ],
+        "Law firm": "DLA Piper",
+        "Lawyer": "Katie Jahnke Dale, Rich Klawiter",
+        "Neighborhood": [
+            "West Town"
+        ],
+        "Owner": "PVJS Company",
+        "Ward": "27th Ward",
+        "Ward_Alderman": " Alder Walter Burnett",
+        "ZIP Code": [
+            "60607"
+        ],
+        "date": "2017-03-29",
+        "href": "/legislation/o2017-899/",
+        "locations": [
+            "3535 N Ashland Ave Chicago"
+        ],
+        "ord": "O2017-899",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "summary": "The Applicant requests a rezoning of the subject property from the M2-3 Light Industry District to the DX-5 Downtown Mixed-Use District then to a Business Planned Development to permit the construction of a 12-story (165'4\") building with approximately 4,380 square feet of ground floor retail and commercial uses, approximately 211,291 square feet of office on floors 2 through 12. Then, 53 parking spaces and accessory and incidental uses.",
+        "year": 2017
+    },
+    {
+        "Applicant": "EZMB, LLC.",
+        "Architect": "Hanna Architects",
+        "Community Area": [
+            "Logan Square"
+        ],
+        "Law firm": "",
+        "Lawyer": "Daniel G. Lauer, ESQ.",
+        "Neighborhood": [
+            "Bucktown"
+        ],
+        "Owner": "MICHAEL SZURA AND DONNA MARIE SZURA",
+        "Ward": "32nd Ward",
+        "Ward_Alderman": " Alder Scott Waguespack",
+        "ZIP Code": [
+            "60647"
+        ],
+        "date": "2017-03-29",
+        "href": "/legislation/o2017-900/",
+        "locations": [
+            "1650 W Foster Ave Chicago"
+        ],
+        "ord": "O2017-900",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "summary": "The applicant intends to construct a four story, three dwelling unit building with a basement. The footprint of the building shall be approximately 19 feet by 71 feet in size. The building height shall be 45 feet high. As defined by code.",
+        "year": 2017
+    },
+    {
+        "Applicant": "Green Kinzie. LLC",
+        "Architect": "Gensler",
+        "Community Area": [
+            "Near West Side"
+        ],
+        "Law firm": "",
+        "Lawyer": "Rich Klawiter & Katie Jahnke Dale - DLA Piper LLP (US)",
+        "Neighborhood": [
+            "West Town"
+        ],
+        "Owner": "Green Kinzie. LLC",
+        "Ward": "27th Ward",
+        "Ward_Alderman": " Alder Walter Burnett",
+        "ZIP Code": [
+            "60607"
+        ],
+        "date": "2017-03-29",
+        "href": "/legislation/o2017-898/",
+        "locations": [
+            "460 N May St Chicago"
+        ],
+        "ord": "O2017-898",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "summary": "The Applicant requests a rezoning of the subject property from the M2-3 Light Industry District to the DX-5 Mixed-Use District then to a Business Planned Development to permit the construction of a 21-story (298') commercial building containing an overall FAR of 8.1. approximately 256 parking spaces, and accessory and incidental uses",
+        "year": 2017
+    },
+    {
+        "Applicant": "1200 Ashland LLC ",
+        "Architect": "Wallin & Gomez",
+        "Community Area": [
+            "West Town"
+        ],
+        "Law firm": "",
+        "Lawyer": "",
+        "Neighborhood": [
+            "Wicker Park"
+        ],
+        "Owner": "1200 Ashland LLC ",
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2016-07-20",
+        "href": "/legislation/o2016-634/",
+        "locations": [
+            "1301 N Western Ave Chicago"
+        ],
+        "ord": "O2016-634",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "summary": "The Applicant is seeking a zoning change to a Residential-Business Planned Development in order to permit the construction of a new sixteen-story residential building, containing 168 dwelling units, at the vacant northwest portion of the subject property. The two existing four-story mixed-use buildings (approx. 9.000 square feet) and surface parking lots, will remain unchanged. The site, in its entirety, will provide a total of 151 off-street parking spaces to serve the proposed residential and existing commercial/office uses. The proposed new residential building will be glass, aluminum and concrete in construction and measure 163 feet-0 inches in height. The height and density (number of dwelling units) of the proposed new building, in addition to the other existing uses at the site, trigger a mandatory Residential-Business Planned Development. ",
+        "year": 2016
+    },
+    {
+        "Applicant": "",
+        "Architect": "",
+        "Community Area": [
+            "New City"
+        ],
+        "Law firm": "",
+        "Lawyer": "",
+        "Neighborhood": [
+            "Canaryville"
+        ],
+        "Owner": "",
+        "Ward": "11th Ward",
+        "Ward_Alderman": " Alder Patrick Daley Thompson",
+        "ZIP Code": [
+            "60609"
+        ],
+        "date": "2016-03-16",
+        "href": "/legislation/o2016-57/",
+        "locations": [
+            "3900-3904 W 47th St Chicago"
+        ],
+        "ord": "O2016-57",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "summary": "Change from B2-3 to RS-1 for unknown reason.",
+        "year": 2016
+    },
+    {
+        "Applicant": "New Congress, LLC",
+        "Architect": "",
+        "Community Area": [
+            "Logan Square"
+        ],
+        "Law firm": "",
+        "Lawyer": "",
+        "Neighborhood": [
+            "Logan Square"
+        ],
+        "Owner": "New Congress, LLC",
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60647"
+        ],
+        "date": "2016-03-16",
+        "href": "/legislation/o2016-55/",
+        "locations": [
+            "2109-2115 S Halsted St Chicago"
+        ],
+        "ord": "O2016-55",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "summary": "rehabilitation of the existing 77 ft tall building for a large venue, up to either 32 residential units or 50 hotel rooms and ground floor commercial space; development of the vacant parcel with a new building 120 ft. in height containing 120 residential dwelling units. Neither properly has or will have parking or loading. ",
+        "year": 2016
+    },
+    {
+        "ZIP Code": [
+            "60706"
+        ],
+        "date": "2015-01-21",
+        "href": "/legislation/o-2014-8911b/",
+        "locations": [
+            "W Forest Preserve Dr and N Oak Park Ave Chicago"
+        ],
+        "ord": "2014-8911B",
+        "sponsor_ward": [
+            ""
+        ],
+        "sponsors": [
+            "Cullerton, Timothy M."
+        ],
+        "status": "Passed",
+        "year": 2015
+    },
+    {
+        "ZIP Code": [
+            "60706"
+        ],
+        "date": "2015-01-21",
+        "href": "/legislation/o-2014-8911a/",
+        "locations": [
+            "W Forest Preserve Dr and N Oak Park Ave Chicago"
+        ],
+        "ord": "2014-8911A",
+        "sponsor_ward": [
+            ""
+        ],
+        "sponsors": [
+            "Cullerton, Timothy M."
+        ],
+        "status": "Passed",
+        "year": 2015
     }
 ]
