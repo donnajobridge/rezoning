@@ -8147,3 +8147,4 @@ bail@chrome://marionette/content/sync.js:196:64
 bail@chrome://marionette/content/sync.js:196:64
 1551849984061	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
 bail@chrome://marionette/content/sync.js:196:64
+1551903812465	Marionette	INFO	Stopped listening on port 58148
