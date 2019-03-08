@@ -1,0 +1,243 @@
+[
+    {
+        "Applicant": "",
+        "Architect": "",
+        "Community Area": [
+            "West Town"
+        ],
+        "Law firm": "Law Offices of Samuel V.P. Banks",
+        "Lawyer": "Sara K. Barnes",
+        "Neighborhood": [
+            "Humboldt Park"
+        ],
+        "Owner": "",
+        "Ward": "1st Ward",
+        "Ward_Alderman": " Alder Proco Joe Moreno",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2019-01-23",
+        "href": "/legislation/o2019-278/",
+        "locations": [
+            "1456 N Western Ave Chicago"
+        ],
+        "ord": "O2019-278",
+        "ord_code": "6614",
+        "ord_code_page": "https://www.chicagocityscape.com/ordinances.php?ordinance=6614",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Active",
+        "summary": "Construction of a new four-story (with basement) all residential building, at the subject property. The new proposed building will contain a total of four (4) dwelling units, as well as interior parking for two (2) vehicles. There will be outdoor parking for an additional two (2) vehicles, located at the rear of the property - for a total of four (4) onsite vehicular parking spaces. The new building will be masonry in construction and measure 48 feet-0 inches (approximately) in height.",
+        "year": 2019
+    },
+    {
+        "Applicant": "Hazem Saadeh",
+        "Architect": "ASI",
+        "Community Area": [
+            "New City"
+        ],
+        "Law firm": "Law Offices of Samuel V.P. Banks",
+        "Lawyer": "Sara K. Barnes",
+        "Neighborhood": [
+            "Back of the Yards"
+        ],
+        "Owner": "Hazem Saadeh",
+        "Ward": "15th Ward",
+        "Ward_Alderman": " Alder Raymond Lopez",
+        "ZIP Code": [
+            "60609"
+        ],
+        "date": "2019-01-23",
+        "href": "/legislation/o2019-282/",
+        "locations": [
+            "4404 S Wood St Chicago"
+        ],
+        "ord": "O2019-282",
+        "ord_code": "6613",
+        "ord_code_page": "https://www.chicagocityscape.com/ordinances.php?ordinance=6613",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Active",
+        "summary": "Zoning change in order to re-establish a grocery (retail) market within the existing grade-level storefront (unit) and to bring the remainder of the existing building and uses into compliance, under the current Zoning Ordinance. No physical expansion of or changes to the existing building are intended or required. The existing building is, and will remain, frame in construction and measures 23 feet-11.44 inches (approx.) in height. There is, and will remain, onsite parking for two (2) vehicles, located in a detached garage, at the rear of the property.",
+        "year": 2019
+    },
+    {
+        "Applicant": "31831 North Damen Homeowners Association",
+        "Architect": "",
+        "Community Area": [
+            "West Town"
+        ],
+        "Law firm": "Law Offices of Samuel V.P. Banks",
+        "Lawyer": "Sara K. Barnes",
+        "Neighborhood": [
+            "East Ukrainian Village"
+        ],
+        "Owner": "31831 North Damen Homeowners Association",
+        "Ward": "2nd Ward",
+        "Ward_Alderman": " Alder Brian Hopkins",
+        "ZIP Code": [
+            "60622"
+        ],
+        "date": "2019-01-23",
+        "href": "/legislation/o2018-9268/",
+        "locations": [
+            "831 N Damen Ave Chicago"
+        ],
+        "ord": "o2018-9268",
+        "ord_code": "6513",
+        "ord_code_page": "https://www.chicagocityscape.com/ordinances.php?ordinance=6513",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "summary": "Zoning Map Amendment in order to permit the renovation and expansion of the existing non-conforming building and the six (6) dwelling units located therein. Part of the proposed renovation plan calls for the buildout of the 'attic' (dormer), above the third-floor, in order to provide additional habitable space for the residents of the two (2) dwelling units, located on the third-floor of the existing building. No additional dwelling units are intended or contemplated. As such, the building will continue to contain a total of six (6) dwelling units, upon completion of the proposed renovation work. There is - and will remain - onsite surface parking for three (3) vehicles, located at the rear of the building. The proposed renovation work will be completed in masonry and stone, to match the design of the existing building. Upon completion of the proposed renovation work, the building will measure 45 feet-0 inches (approximately) in height. The proposed Zoning Change is also required to cure the current non-conforming conditions, at the property, and to bring the existing building into compliance, under the Chicago Zoning Ordinance.",
+        "year": 2019
+    },
+    {
+        "Applicant": "Greenbluff, LLC",
+        "Architect": "Hanna Architects",
+        "Community Area": [
+            "Belmont Cragin"
+        ],
+        "Law firm": "Law Offices of Samuel V.P. Banks",
+        "Lawyer": "Sara K. Barnes",
+        "Neighborhood": [
+            "Cragin"
+        ],
+        "Owner": "Greenbluff, LLC",
+        "Ward": "31st Ward",
+        "Ward_Alderman": " Alder Milagros \"Milly\" Santiago",
+        "ZIP Code": [
+            "60639"
+        ],
+        "date": "2019-01-23",
+        "href": "/legislation/o2018-6941/",
+        "locations": [
+            "2738 N Laramie Ave Chicago"
+        ],
+        "ord": "O2018-6941",
+        "ord_code": "6342",
+        "ord_code_page": "https://www.chicagocityscape.com/ordinances.php?ordinance=6342",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "summary": "Convert the three (3) existing (vacant) commercial units into dwelling units and to establish one (1) additional dwelling unit within the basement - for a total of seventeen (17) dwelling units within the existing three-story building at the subject site. The proposed Zoning Change is also required in order to cure the standing non-conforming conditions and to bring the existing building into compliance, under the current Zoning Ordinance.",
+        "year": 2019
+    },
+    {
+        "Applicant": "2922-24 N. Central Park, LLC",
+        "Architect": "",
+        "Community Area": [
+            "Lake View"
+        ],
+        "Law firm": "Thomas R Raines, LLC",
+        "Lawyer": "Thomas R. Raines",
+        "Neighborhood": [
+            "Logan Square"
+        ],
+        "Owner": "Zdzislaw & Stanislawa Sitarz",
+        "date": "2019-01-23",
+        "href": "/legislation/o2019-271/",
+        "locations": [
+            "2922-2924 N Central Park Ave Chicago",
+            "3609 W Oakdale Ave Chicago"
+        ],
+        "ord": "O2019-271",
+        "ord_code": "6624",
+        "ord_code_page": "https://www.chicagocityscape.com/ordinances.php?ordinance=6624",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Active",
+        "summary": "1st floor tavern, approx. 3,162 sq ft total with new addition and an expansion of the tavern to an outdoor patio at ground level, approx. 1,821 sq ft with no changes to the existing 4 dwelling units on the second and third floors. Four (4) parking spaces will be provided at rear off of ally.",
+        "year": 2019
+    },
+    {
+        "Applicant": "",
+        "Architect": "",
+        "Community Area": [
+            "Loop"
+        ],
+        "Law firm": "",
+        "Lawyer": "",
+        "Neighborhood": [
+            "South Loop"
+        ],
+        "Owner": "",
+        "Ward": "4th Ward",
+        "Ward_Alderman": " Alder Sophia King",
+        "ZIP Code": [
+            "60605"
+        ],
+        "date": "2019-01-23",
+        "href": "/legislation/o2018-9319/",
+        "locations": [
+            "4120-4248 S Michigan Ave Chicago"
+        ],
+        "ord": "O2018-9319",
+        "ord_code": "6558",
+        "ord_code_page": "https://www.chicagocityscape.com/ordinances.php?ordinance=6558",
+        "sponsor_ward": [
+            "Ward 3"
+        ],
+        "sponsors": [
+            "Dowell, Pat"
+        ],
+        "status": "Passed",
+        "summary": "Change from B3-2, RM-5, and B3-3 to RT-4 for an unknown reason.",
+        "year": 2019
+    },
+    {
+        "Applicant": "Citrin Properties LLC - 2600 23rd Series",
+        "Architect": "",
+        "Community Area": [
+            "South Lawndale"
+        ],
+        "Law firm": "Law Offices of Samuel V.P. Banks",
+        "Lawyer": "Nicholas J. Ftikas",
+        "Neighborhood": [
+            "Little Village"
+        ],
+        "Owner": "Citrin Properties LLC - 2600 23rd Series",
+        "Ward": "24th Ward",
+        "Ward_Alderman": " Alder Michael Scott",
+        "ZIP Code": [
+            "60608"
+        ],
+        "date": "2019-01-23",
+        "href": "/legislation/o2018-9308/",
+        "locations": [
+            "2600-2602 W 23rd St Chicago"
+        ],
+        "ord": "O2018-9308",
+        "ord_code": "6525",
+        "ord_code_page": "https://www.chicagocityscape.com/ordinances.php?ordinance=6525",
+        "sponsor_ward": [],
+        "sponsors": [
+            "Chicago City Council",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Committee on Zoning, Landmarks and Building Standards",
+            "Chicago City Council"
+        ],
+        "status": "Passed",
+        "summary": "Establishment of two (2) ground-floor dwelling-units, for a total of eight (8) dwelling-units in the existing multi-unit building located at the subject site. The footprint of the existing building will remain without change. No onsite parking is currently provided. Six (6) spaces will be provided at the rear of the subject lot as part of this zoning change.",
+        "year": 2019
+    }
+]
